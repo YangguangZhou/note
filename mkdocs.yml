@@ -73,6 +73,7 @@ plugins:
   - search
   # - with-pdf
   - git-revision-date-localized
+  - print-site
   - heti:
       disable_serve: false
 
