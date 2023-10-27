@@ -5,12 +5,10 @@
 ### 基本公式
 
  - $v=\frac{\Delta x}{\Delta t}$
-
  - $a=\frac{\Delta v}{\Delta t}$
-
  - $v=v_0+at$
-
  - $x=v_0t+\frac{1}{2}at^2$
+ - $v^2-v_0^2=2ax$
 
 ### 拓展公式
 
@@ -29,3 +27,16 @@
  - 前 $T$ 内、前 $2T$ 内、前 $3T$ 内、$\ldots$、前 $nT$ 内的位移之比为 $x_1:x_2:x_3:\ldots:x_n=1^2:2^2:3^2:\ldots:n^2$
  - 第 $1$ 个 $T$ 内、第 $2$ 个 $T$ 内、第 $3$ 个 $T$ 内、$\ldots$、第 $n$ 个 $T$ 内的瞬时位移之比为 $x_1:x_2:x_3:\ldots:x_n=1:3:5:\ldots:(2n-1)$
  - 通过连续相等的位移 $x$ 所用时间之比为 $t_1:t_2:t_3:\ldots:x_n=1:(\sqrt{2}-1):(\sqrt{3}-\sqrt{2}):\ldots:(\sqrt{n}-\sqrt{n-1})$
+
+#### 自由落体运动
+
+ - $v=\sqrt{2gh}$
+ - $t=\frac{v_0}{g}$
+
+#### 图像
+
+ - $a-t$ 图像：$S=\Delta v$
+ - $\frac{x}{t}-t$ 图像：$k=\frac{1}{2}a$，纵截距 $h=v_0$，$\frac{x}{t}=v_0+\frac{1}{2}at$
+ - $v^2-x$ 图像：$k=2a$，$v^2=v_0^2+2ax$
+ - $a-x$ 图像：$S=\frac{v^2-v_0^2}{2}$
+ - $v-x$ 图像：$v=\sqrt{v_0^2+2ax}$，$x=\frac{v^2-v_0^2}{2a}$

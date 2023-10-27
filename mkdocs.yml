@@ -14,7 +14,7 @@ nav:
 
 repo_url: https://github.com/YangguangZhou/note
 repo_name: YangguangZhou/note
-edit_uri: edit/main/docs/
+edit_uri: edit/main/docs
 
 theme: 
   name: 'material'
@@ -73,8 +73,10 @@ plugins:
   - search
   # - with-pdf
   - git-revision-date-localized
-  - print-site
   - heti
+  # - social:
+  #     cards_layout_options:
+  #       font_family: Noto Sans SC
 
 markdown_extensions:
   - toc:
