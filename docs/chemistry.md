@@ -20,7 +20,7 @@ $N=n \times N_a$
 ### 摩尔质量
 $M$（$g/mol$）
 
-$M=\frac{m}{n}=相对原子/分子质量=V_m\times \rho$
+$M=\frac{m}{n}=$ 相对原子/分子质量 $=V_m\times \rho$
 
 $m=M \times n$
 
