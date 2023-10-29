@@ -2,3 +2,6 @@ mkdocs
 mkdocs-material
 mkdocs-git-revision-date-localized-plugin
 mkdocs-heti-plugin
+rich
+mkdocs-toc-plugin
+mkdocs-statistics-plugin
