@@ -9,6 +9,7 @@ nav:
   - 主页: index.md
   - 高中学习: 
     - 语文: learning/chinese.md
+    - 数学: learning/math.md
     - 物理: learning/physics.md
     - 化学: learning/chemistry.md
     - 笔记: learning/note.md
