@@ -29,6 +29,7 @@ $ \cos(\theta + 2k\pi) = \cos \theta $
 $ \tan(\theta + k\pi) = \tan \theta $
 
 1. **第一组:**
+
    $ \sin(\pi - \theta) = \sin \theta $
 
    $ \cos(\pi - \theta) = -\cos \theta $
@@ -36,6 +37,7 @@ $ \tan(\theta + k\pi) = \tan \theta $
    $ \tan(\pi - \theta) = -\tan \theta $
 
 2. **第二组:**
+
    $ \sin(\pi + \theta) = -\sin \theta $
 
    $ \cos(\pi + \theta) = -\cos \theta $
@@ -43,6 +45,7 @@ $ \tan(\theta + k\pi) = \tan \theta $
    $ \tan(\pi + \theta) = \tan \theta $
 
 3. **第三组:**
+
    $ \sin(2\pi - \theta) = -\sin \theta $
 
    $ \cos(2\pi - \theta) = \cos \theta $
@@ -50,6 +53,7 @@ $ \tan(\theta + k\pi) = \tan \theta $
    $ \tan(2\pi - \theta) = -\tan \theta $
 
 4. **第四组:**
+
    $ \sin(-\theta) = -\sin \theta $
 
    $ \cos(-\theta) = \cos \theta $
@@ -57,6 +61,7 @@ $ \tan(\theta + k\pi) = \tan \theta $
    $ \tan(-\theta) = -\tan \theta $
 
 5. **第五组:**
+
    $ \sin\left(\frac{\pi}{2} - \theta\right) = \cos \theta $
 
    $ \cos\left(\frac{\pi}{2} - \theta\right) = \sin \theta $
@@ -64,6 +69,7 @@ $ \tan(\theta + k\pi) = \tan \theta $
    $ \tan\left(\frac{\pi}{2} - \theta\right) = \frac{1}{\tan \theta} $
 
 6. **第六组:**
+
    $ \sin\left(\frac{\pi}{2} + \theta\right) = \cos \theta $
 
    $ \cos\left(\frac{\pi}{2} + \theta\right) = -\sin \theta $
