@@ -6,72 +6,74 @@
 
 ### 对数乘法法则
 
-如果$a, b, c$都是正数，且$a \neq 1$，那么$\log_a(bc) = \log_ab + \log_ac$。即两个数相乘的对数等于这两个数的对数之和。
+如果\(a, b, c\)都是正数，且\(a \neq 1\)，那么\(\log_a(bc) = \log_a b + \log_a c\)。即两个数相乘的对数等于这两个数的对数之和。
 
 ### 对数除法法则
 
-如果$a, b, c$都是正数，且$a \neq 1$，那么$\log_a\frac{b}{c} = \log_ab - \log_ac$。即两个数相除的对数等于这两个数的对数之差。
+如果\(a, b, c\)都是正数，且\(a \neq 1\)，那么\(\log_a\frac{b}{c} = \log_a b - \log_a c\)。即两个数相除的对数等于这两个数的对数之差。
 
 ### 对数幂法则
 
-如果$a, b, c$都是正数，且$a \neq 1$，那么$\log_a b^c = c \log_ab$。即一个数的幂的对数等于这个数的对数乘以指数。
+如果\(a, b, c\)都是正数，且\(a \neq 1\)，那么\(\log_a b^c = c \log_a b\)。即一个数的幂的对数等于这个数的对数乘以指数。
 
 ### 对数换底法则
 
-如果$a, b, c$都是正数，且$a, c \neq 1$，那么$\log_a b = \frac{\log_c b}{\log_c a}$。即一个数的对数可以用任意底数来表示，只要用原来的底数的对数除以新的底数的对数。
+如果\(a, b, c\)都是正数，且\(a, c \neq 1\)，那么\(\log_a b = \frac{\log_c b}{\log_c a}\)。即一个数的对数可以用任意底数来表示，只要用原来的底数的对数除以新的底数的对数。
 
 ## 三角函数诱导公式
 
-$ \sin(\theta + 2k\pi) = \sin \theta $
+\(\sin(\theta + 2k\pi) = \sin \theta\)
 
-$ \cos(\theta + 2k\pi) = \cos \theta $
+\(\cos(\theta + 2k\pi) = \cos \theta\)
 
-$ \tan(\theta + k\pi) = \tan \theta $
+\(\tan(\theta + k\pi) = \tan \theta\)
+
+其中，\(k \in \mathbb{Z}\)
 
 1. **第一组:**
 
-   $ \sin(\pi - \theta) = \sin \theta $
+   \(\sin(\pi - \theta) = \sin \theta\)
 
-   $ \cos(\pi - \theta) = -\cos \theta $
+   \(\cos(\pi - \theta) = -\cos \theta\)
 
-   $ \tan(\pi - \theta) = -\tan \theta $
+   \(\tan(\pi - \theta) = -\tan \theta\)
 
 2. **第二组:**
 
-   $ \sin(\pi + \theta) = -\sin \theta $
+   \(\sin(\pi + \theta) = -\sin \theta\)
 
-   $ \cos(\pi + \theta) = -\cos \theta $
+   \(\cos(\pi + \theta) = -\cos \theta\)
 
-   $ \tan(\pi + \theta) = \tan \theta $
+   \(\tan(\pi + \theta) = \tan \theta\)
 
 3. **第三组:**
 
-   $ \sin(2\pi - \theta) = -\sin \theta $
+   \(\sin(2\pi - \theta) = -\sin \theta\)
 
-   $ \cos(2\pi - \theta) = \cos \theta $
+   \(\cos(2\pi - \theta) = \cos \theta\)
 
-   $ \tan(2\pi - \theta) = -\tan \theta $
+   \(\tan(2\pi - \theta) = -\tan \theta\)
 
 4. **第四组:**
 
-   $ \sin(-\theta) = -\sin \theta $
+   \(\sin(-\theta) = -\sin \theta\)
 
-   $ \cos(-\theta) = \cos \theta $
+   \(\cos(-\theta) = \cos \theta\)
 
-   $ \tan(-\theta) = -\tan \theta $
+   \(\tan(-\theta) = -\tan \theta\)
 
 5. **第五组:**
 
-   $ \sin\left(\frac{\pi}{2} - \theta\right) = \cos \theta $
+   \(\sin\left(\frac{\pi}{2} - \theta\right) = \cos \theta\)
 
-   $ \cos\left(\frac{\pi}{2} - \theta\right) = \sin \theta $
+   \(\cos\left(\frac{\pi}{2} - \theta\right) = \sin \theta\)
 
-   $ \tan\left(\frac{\pi}{2} - \theta\right) = \frac{1}{\tan \theta} $
+   \(\tan\left(\frac{\pi}{2} - \theta\right) = \frac{1}{\tan \theta}\)
 
 6. **第六组:**
 
-   $ \sin\left(\frac{\pi}{2} + \theta\right) = \cos \theta $
+   \(\sin\left(\frac{\pi}{2} + \theta\right) = \cos \theta\)
 
-   $ \cos\left(\frac{\pi}{2} + \theta\right) = -\sin \theta $
+   \(\cos\left(\frac{\pi}{2} + \theta\right) = -\sin \theta\)
 
-   $ \tan\left(\frac{\pi}{2} + \theta\right) = -\frac{1}{\tan \theta} $
+   \(\tan\left(\frac{\pi}{2} + \theta\right) = -\frac{1}{\tan \theta}\)
