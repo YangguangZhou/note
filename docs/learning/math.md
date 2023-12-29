@@ -78,31 +78,30 @@
 
    \(\tan\left(\frac{\pi}{2} + \theta\right) = -\frac{1}{\tan \theta}\)
 
-
 以下是带有适当TeX符号的代码：
 
 4. 和差角公式
-   - \\(\sin(\alpha \pm \beta) = \sin\alpha\cos\beta \pm \cos\alpha\sin\beta\\)
-   - \\(\cos(\alpha \pm \beta) = \cos\alpha\cos\beta \mp \sin\alpha\sin\beta\\)
-   - \\(\tan(\alpha \pm \beta) = \frac{\tan\alpha \pm \tan\beta}{1 \mp \tan\alpha\tan\beta}\\)
-   
+   - \(\sin(\alpha \pm \beta) = \sin\alpha\cos\beta \pm \cos\alpha\sin\beta\)
+   - \(\cos(\alpha \pm \beta) = \cos\alpha\cos\beta \mp \sin\alpha\sin\beta\)
+   - \(\tan(\alpha \pm \beta) = \frac{\tan\alpha \pm \tan\beta}{1 \mp \tan\alpha\tan\beta}\)
+
 5. 和差化积与积化和差公式 
    - 两角和（或差）与两角积之间的关系
-     - \\(\sin\alpha\cos\beta = \frac{1}{2}[\sin(\alpha - \beta)+\sin(\alpha + \beta)]\\)
-     - \\(\cos\alpha\sin\beta = \frac{1}{2}[\sin(\alpha - \beta) - \sin(\alpha + \beta)]\\)
-     - \\(\cos\alpha\cos\beta = \frac{1}{2}[\cos(\alpha - \beta)+\cos(\alpha + \beta)]\\)
-     - \\(\sin\alpha\sin\beta = -\frac{1}{2}[\cos(\alpha - \beta) - \cos(\alpha + \beta)]\\)
+     - \(\sin\alpha\cos\beta = \frac{1}{2}[\sin(\alpha - \beta)+\sin(\alpha + \beta)]\)
+     - \(\cos\alpha\sin\beta = \frac{1}{2}[\sin(\alpha - \beta) - \sin(\alpha + \beta)]\)
+     - \(\cos\alpha\cos\beta = \frac{1}{2}[\cos(\alpha - \beta)+\cos(\alpha + \beta)]\)
+     - \(\sin\alpha\sin\beta = -\frac{1}{2}[\cos(\alpha - \beta) - \cos(\alpha + \beta)]\)
    - 两角积与两角和（或差）之间的关系
-     - \\(\sin\alpha \pm \sin\beta = 2\sin\frac{1}{2}(\alpha \pm \beta)\cos\frac{1}{2}(\alpha \mp \beta)\\)
-     - \\(\cos\alpha + \cos\beta = 2\cos\frac{1}{2}(\alpha + \beta)\cos\frac{1}{2}(\alpha - \beta)\\)
-     - \\(\cos\alpha - \cos\beta = -2\sin\frac{1}{2}(\alpha + \beta)\sin\frac{1}{2}(\alpha - \beta)\\)
-   
+     - \(\sin\alpha \pm \sin\beta = 2\sin\frac{1}{2}(\alpha \pm \beta)\cos\frac{1}{2}(\alpha \mp \beta)\)
+     - \(\cos\alpha + \cos\beta = 2\cos\frac{1}{2}(\alpha + \beta)\cos\frac{1}{2}(\alpha - \beta)\)
+     - \(\cos\alpha - \cos\beta = -2\sin\frac{1}{2}(\alpha + \beta)\sin\frac{1}{2}(\alpha - \beta)\)
+
 6. 倍角公式和半角公式
    - 倍角公式
-     - \\(\sin 2\alpha = 2\sin\alpha\cos\alpha\\)
-     - \\(\cos 2\alpha = \cos^2\alpha - \sin^2\alpha = 2\cos^2\alpha - 1 = 1 - 2\sin^2\alpha\\)
-     - \\(\tan 2\alpha = \frac{2\tan\alpha}{1 - \tan^2\alpha}\\)
+     - \(\sin 2\alpha = 2\sin\alpha\cos\alpha\)
+     - \(\cos 2\alpha = \cos^2\alpha - \sin^2\alpha = 2\cos^2\alpha - 1 = 1 - 2\sin^2\alpha\)
+     - \(\tan 2\alpha = \frac{2\tan\alpha}{1 - \tan^2\alpha}\)
    - 半角公式
-     - \\(\sin\frac{\alpha}{2} = \pm\sqrt{\frac{1 - \cos\alpha}{2}}\\)
-     - \\(\cos\frac{\alpha}{2} = \pm\sqrt{\frac{1 + \cos\alpha}{2}}\\)
-     - \\(\tan\frac{\alpha}{2} = \pm\sqrt{\frac{1 - \cos\alpha}{1 + \cos\alpha}} = \frac{1 - \cos\alpha}{\sin\alpha} = \frac{\sin\alpha}{1 + \cos\alpha}\\)
+     - \(\sin\frac{\alpha}{2} = \pm\sqrt{\frac{1 - \cos\alpha}{2}}\)
+     - \(\cos\frac{\alpha}{2} = \pm\sqrt{\frac{1 + \cos\alpha}{2}}\)
+     - \(\tan\frac{\alpha}{2} = \pm\sqrt{\frac{1 - \cos\alpha}{1 + \cos\alpha}} = \frac{1 - \cos\alpha}{\sin\alpha} = \frac{\sin\alpha}{1 + \cos\alpha}\)
