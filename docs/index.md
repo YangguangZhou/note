@@ -12,8 +12,8 @@ statistics: True
     - 化学[note]: learning/chemistry/
     - 笔记[note]: learning/note/
 - 生物学:
-    - 书籍: biology/book.md
-    - 课件: biology/ppt.md
+    - 书籍: biology/book
+    - 课件: biology/ppt
 - C++学习: 
     - C++数据结构: cpp/C++数据结构
     - 2022.01.17: cpp/2022.01.17
