@@ -65,9 +65,9 @@
     - \(\sin\alpha\sin\beta = -\frac{1}{2}[\cos(\alpha - \beta) - \cos(\alpha + \beta)]\)
 
 2. 两角积与两角和（或差）之间的关系
-    - \(\sin\alpha \pm \sin\beta = 2\sin\frac{1}{2}(\alpha \pm \beta)\cos\frac{1}{2}(\alpha \mp \beta)\)
-    - \(\cos\alpha + \cos\beta = 2\cos\frac{1}{2}(\alpha + \beta)\cos\frac{1}{2}(\alpha - \beta)\)
-    - \(\cos\alpha - \cos\beta = -2\sin\frac{1}{2}(\alpha + \beta)\sin\frac{1}{2}(\alpha - \beta)\)
+    - \(\sin\alpha \pm \sin\beta = 2\sin\frac{\alpha \pm \beta}{2}\cos\frac{\alpha \mp \beta}{2}\)
+    - \(\cos\alpha + \cos\beta = 2\cos\frac{\alpha + \beta}{2}\cos\frac{\alpha - \beta}{2}\)
+    - \(\cos\alpha - \cos\beta = -2\sin\frac{\alpha + \beta}{2}\sin\frac{\alpha - \beta}{2}\)
 
 ### 倍角公式和半角公式
 1. 倍角公式
