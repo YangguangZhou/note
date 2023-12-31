@@ -82,7 +82,7 @@
     - \(\cos\frac{\alpha}{2} = \pm\sqrt{\frac{1 + \cos\alpha}{2}}\)
     - \(\tan\frac{\alpha}{2} = \pm\sqrt{\frac{1 - \cos\alpha}{1 + \cos\alpha}} = \frac{1 - \cos\alpha}{\sin\alpha} = \frac{\sin\alpha}{1 + \cos\alpha}\)
 
-    !!! note 降幂公式
+    !!! note "降幂公式"
         - \(\sin^2\alpha = \frac{1 - \cos 2\alpha}{2}\)
         - \(\cos^2\alpha = \frac{1 + \cos 2\alpha}{2}\)
         - \(\tan^2\alpha = \frac{1 - \cos 2\alpha}{1 + \cos 2\alpha}\)
