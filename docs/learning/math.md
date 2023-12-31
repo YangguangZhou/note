@@ -9,6 +9,8 @@
 
 ## 三角函数公式
 
+\(\sin^2\alpha+\cos^2\alpha=1\)
+
 ### 基础公式
 
 1. \(\sin(\theta + 2k\pi) = \sin \theta\)
@@ -79,3 +81,25 @@
     - \(\sin\frac{\alpha}{2} = \pm\sqrt{\frac{1 - \cos\alpha}{2}}\)
     - \(\cos\frac{\alpha}{2} = \pm\sqrt{\frac{1 + \cos\alpha}{2}}\)
     - \(\tan\frac{\alpha}{2} = \pm\sqrt{\frac{1 - \cos\alpha}{1 + \cos\alpha}} = \frac{1 - \cos\alpha}{\sin\alpha} = \frac{\sin\alpha}{1 + \cos\alpha}\)
+
+    !!! note 降幂公式
+        - \(\sin^2\alpha = \frac{1 - \cos 2\alpha}{2}\)
+        - \(\cos^2\alpha = \frac{1 + \cos 2\alpha}{2}\)
+        - \(\tan^2\alpha = \frac{1 - \cos 2\alpha}{1 + \cos 2\alpha}\)
+
+### 万能公式
+
+- \(\sin2\alpha = \frac{2\tan\alpha}{1+\tan^2\alpha}\)
+- \(\cos2\alpha = \frac{1-\tan^2\alpha}{1+\tan^2\alpha}\)
+
+### 辅助角公式
+
+- \(a\sin\alpha + b\cos\alpha = \sqrt{a^2 + b^2} \sin ( \alpha+\varphi)\)
+
+\[
+\left\{ \begin{array}{c}
+\sin\varphi = \frac{b}{\sqrt{a^2+b^2}} \\
+\cos\varphi = \frac{a}{\sqrt{a^2+b^2}} \\
+\tan\varphi = \frac{b}{a}  \end{array}
+\right.
+\]
