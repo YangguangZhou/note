@@ -89,17 +89,17 @@
 
 ### 万能公式
 
-- \(\sin2\alpha = \frac{2\tan\alpha}{1+\tan^2\alpha}\)
-- \(\cos2\alpha = \frac{1-\tan^2\alpha}{1+\tan^2\alpha}\)
+1. \(\sin2\alpha = \frac{2\tan\alpha}{1+\tan^2\alpha}\)
+2. \(\cos2\alpha = \frac{1-\tan^2\alpha}{1+\tan^2\alpha}\)
 
 ### 辅助角公式
 
-- \(a\sin\alpha + b\cos\alpha = \sqrt{a^2 + b^2} \sin ( \alpha+\varphi)\)
+\(a\sin\alpha + b\cos\alpha = \sqrt{a^2 + b^2} \sin ( \alpha+\varphi)\)
 
-\[
-\left\{ \begin{array}{c}
+\(
+\begin{cases}
 \sin\varphi = \frac{b}{\sqrt{a^2+b^2}} \\
 \cos\varphi = \frac{a}{\sqrt{a^2+b^2}} \\
-\tan\varphi = \frac{b}{a}  \end{array}
-\right.
-\]
+\tan\varphi = \frac{b}{a}
+\end{cases}
+\)
