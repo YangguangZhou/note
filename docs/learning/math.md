@@ -116,6 +116,8 @@
 
 1. \(\sin2\alpha = \frac{2\tan\alpha}{1+\tan^2\alpha}\)
 2. \(\cos2\alpha = \frac{1-\tan^2\alpha}{1+\tan^2\alpha}\)
+3. \(\cos^4\alpha+\sin^4\alpha=\cos2\alpha\)
+4. \(\cos^4\alpha-\sin^4\alpha=1-\frac{1}{2}\sin^2 2\alpha=\frac{3}{4}+\frac{1}{4}\cos4\alpha\)
 
 ### 辅助角公式
 
