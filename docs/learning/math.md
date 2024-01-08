@@ -7,7 +7,7 @@
 3. 对数幂法则：   \(\log_a b^c = c \log_a b\)
 4. 对数换底法则： \(\log_a b = \frac{\log_c b}{\log_c a}\)
 
-## 三角函数公式
+## 三角函数
 
 \(\sin^2\alpha+\cos^2\alpha=1\)
 
@@ -51,6 +51,31 @@
     - \(\cos\left(\frac{\pi}{2} + \theta\right) = -\sin \theta\)
     - \(\tan\left(\frac{\pi}{2} + \theta\right) = -\frac{1}{\tan \theta}\)
 
+
+### 三角函数的性质
+
+#### 基本三角函数
+
+| 函数 | 对称轴 | 对称中心 | 单调递增区间 | 单调递减区间 | 奇偶性 | 零点 |
+| --- | --- | --- | --- | --- | --- | --- |
+| \( y = \sin x \) | \( x = k\pi + \frac{\pi}{2} \), \( k \in \mathbb{Z} \) | \( (k\pi, 0) \), \( k \in \mathbb{Z} \) | \( [2k\pi - \frac{\pi}{2}, 2k\pi + \frac{\pi}{2}] \), \( k \in \mathbb{Z} \) | \( [2k\pi + \frac{\pi}{2}, 2k\pi + \frac{3\pi}{2}] \), \( k \in \mathbb{Z} \) | 奇函数 | \( x = k\pi \), \( k \in \mathbb{Z} \) |
+| \( y = \cos x \) | \( x = k\pi \), \( k \in \mathbb{Z} \) | \( \left(k\pi + \frac{\pi}{2}, 0\right) \), \( k \in \mathbb{Z} \) | \( [2k\pi, 2k\pi + \pi] \), \( k \in \mathbb{Z} \) | \( [2k\pi + \pi, 2k\pi + 2\pi] \), \( k \in \mathbb{Z} \) | 偶函数 | \( x = k\pi + \frac{\pi}{2} \), \( k \in \mathbb{Z} \) |
+| \( y = \tan x \) | 无 | \( (k\pi, 0) \), \( k \in \mathbb{Z} \) | \( \left(k\pi - \frac{\pi}{2}, k\pi + \frac{\pi}{2}\right) \), \( k \in \mathbb{Z} \) | 无 | 奇函数 | \( x = k\pi \), \( k \in \mathbb{Z} \) |
+
+#### 奇偶性
+
+三角函数形如 \( f(x) = A \sin(\omega x + \varphi) \) 的奇偶性：
+
+1. \( f(x) \) 为奇函数 \( \Leftrightarrow \) \( \varphi = k\pi \)
+2. \( f(x) \) 为偶函数 \( \Leftrightarrow \) \( \varphi = -\frac{\pi}{2} + k\pi \)
+
+其中，\(k \in \mathbb{Z}\)
+
+#### 周期性
+
+一般地，若函数  \( f(x) \) 的周期为 \(T\)，则函数 \( y = f(\omega x) \) 的周期为 \( \frac{T}{|\omega|} \)
+
+特殊地，函数 \( y = A \sin(\omega x + \varphi) \) 或 \( y = A \cos(\omega x + \varphi) \) 的周期 \( T = \frac{2\pi}{|\omega|} \)，函数 \( y = A \tan(\omega x + \varphi) \) 的周期 \( T = \frac{\pi}{|\omega|} \)
 
 ### 和差角公式
 
