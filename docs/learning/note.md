@@ -15,11 +15,11 @@
 <div class="card file-block" markdown="1">
 <div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div>
 <div class="file-body">
-<div class="file-title">历史提纲 必修一</div>
+<div class="file-title">历史学案 中国史</div>
 <div class="file-meta">4.30 MB / 23 P / 2023-12-17</div>
 </div>
-<a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/学校/高一上/历史/提纲%201-20.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
-<a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/学校/高一上/历史/提纲%201-20.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
+<a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/学校/高一上/历史/中国史学案.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+<a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/学校/高一上/历史/中国史学案.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
 </div>
 
 ## 生物
