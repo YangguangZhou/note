@@ -5,3 +5,5 @@ mkdocs-heti-plugin
 rich
 mkdocs-toc-plugin
 mkdocs-statistics-plugin
+WeasyPrint
+mkdocs-pdf-export-plugin
