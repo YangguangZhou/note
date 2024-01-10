@@ -94,9 +94,6 @@ plugins:
   - heti
   - toc
   - statistics
-  - pdf-export:
-      verbose: false
-      media_type: print
   # - social:
   #     cards_layout_options:
   #       font_family: Noto Sans SC
