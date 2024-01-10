@@ -1,11 +1,34 @@
 # 数学
 
+## 基本不等式
+
+\(
+\begin{cases}
+a^2 + b^2 \geq 2ab \\
+\frac{(a+b)^2}{4} \geq ab \\
+a+b \geq 2\sqrt{ab}
+\end{cases}
+\)
+
+### “调几算方”
+
+调和平均数 \(\geq\) 几何平均数 \(\geq\) 算术平均数 \(\geq\) 平方根平均数
+
+\( \frac{2}{\frac{1}{a}+\frac{1}{b}} \leq \sqrt{ab} \leq \frac{a+b}{2} \leq \sqrt{\frac{a^2+b^2}{2}} \)
+
 ## 对数的运算法则
 
 1. 对数乘法法则： \(\log_a(bc) = \log_a b + \log_a c\)
 2. 对数除法法则： \(\log_a\frac{b}{c} = \log_a b - \log_a c\)
 3. 对数幂法则：   \(\log_a b^c = c \log_a b\)
 4. 对数换底法则： \(\log_a b = \frac{\log_c b}{\log_c a}\)
+
+### 推论：
+
+1. \(\log_a \frac{1}{M} = -\log_a M\)
+2. \(\log_a \sqrt[p]{M^n} = \frac{n}{p}\log_a M\)
+3. \(\log_a b = \frac{1}{\log_b a}\)
+4. \(a^{\log_b c} = c^{\log_b a}\)
 
 ## 三角函数
 
@@ -58,9 +81,11 @@
 
 | 函数 | 对称轴 | 对称中心 | 单调递增区间 | 单调递减区间 | 奇偶性 | 零点 |
 | --- | --- | --- | --- | --- | --- | --- |
-| \( y = \sin x \) | \( x = k\pi + \frac{\pi}{2} \), \( k \in \mathbb{Z} \) | \( (k\pi, 0) \), \( k \in \mathbb{Z} \) | \( [2k\pi - \frac{\pi}{2}, 2k\pi + \frac{\pi}{2}] \), \( k \in \mathbb{Z} \) | \( [2k\pi + \frac{\pi}{2}, 2k\pi + \frac{3\pi}{2}] \), \( k \in \mathbb{Z} \) | 奇函数 | \( x = k\pi \), \( k \in \mathbb{Z} \) |
-| \( y = \cos x \) | \( x = k\pi \), \( k \in \mathbb{Z} \) | \( \left(k\pi + \frac{\pi}{2}, 0\right) \), \( k \in \mathbb{Z} \) | \( [2k\pi, 2k\pi + \pi] \), \( k \in \mathbb{Z} \) | \( [2k\pi + \pi, 2k\pi + 2\pi] \), \( k \in \mathbb{Z} \) | 偶函数 | \( x = k\pi + \frac{\pi}{2} \), \( k \in \mathbb{Z} \) |
-| \( y = \tan x \) | 无 | \( (k\pi, 0) \), \( k \in \mathbb{Z} \) | \( \left(k\pi - \frac{\pi}{2}, k\pi + \frac{\pi}{2}\right) \), \( k \in \mathbb{Z} \) | 无 | 奇函数 | \( x = k\pi \), \( k \in \mathbb{Z} \) |
+| \( y = \sin x \) | \( x = k\pi + \frac{\pi}{2} \) | \( (k\pi, 0) \) | \( [2k\pi - \frac{\pi}{2}, 2k\pi + \frac{\pi}{2}] \) | \( [2k\pi + \frac{\pi}{2}, 2k\pi + \frac{3\pi}{2}] \) | 奇函数 | \( x = k\pi \) |
+| \( y = \cos x \) | \( x = k\pi \) | \( \left(k\pi + \frac{\pi}{2}, 0\right) \) | \( [2k\pi, 2k\pi + \pi] \) | \( [2k\pi + \pi, 2k\pi + 2\pi] \) | 偶函数 | \( x = k\pi + \frac{\pi}{2} \) |
+| \( y = \tan x \) | 无 | \( (k\pi, 0) \) | \( \left(k\pi - \frac{\pi}{2}, k\pi + \frac{\pi}{2}\right) \) | 无 | 奇函数 | \( x = k\pi \) |
+
+其中，\( k \in \mathbb{Z} \)
 
 #### 奇偶性
 
