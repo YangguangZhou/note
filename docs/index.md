@@ -6,7 +6,7 @@ statistics: True
 
 {{ BEGIN_TOC }}
 - 高中学习:
-    - 语文古诗文: learning/chinese/
+    - 语文: learning/chinese/
     - 数学[note]: learning/math/
     - 物理[note]: learning/physics/
     - 化学[note]: learning/chemistry/

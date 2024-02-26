@@ -1,4 +1,4 @@
-# 部编版语文必修上必背古诗文19首
+# 部编版语文必修上必背古诗文
 
 <h2 align='center'>《沁园春·长沙》</h2>
 
@@ -42,17 +42,17 @@
 
 
 
-<h2 align='center'>《文氏外孙入村收麦》</h2>
+<h2 align='center'>《插秧歌》</h2>
 
-<p align='center'>宋·苏辙</p>
+<p align='center'>宋·杨万里</p>
 
-<center>欲收新麦继陈谷，赖有诸孙春老人。</center>
+<center>田夫抛秧田妇接，小儿拔秧大儿插。</center>
 
-<center>三夜阴霪败场圃，一竿晴日舞比邻。</center>
+<center>笠是兜鍪蓑是甲，雨从头上湿到胛。</center>
 
-<center>急炊大饼偿饥乏，多博村酤劳苦辛。</center>
+<center>唤渠朝餐歇半霎，低头折腰只不答。</center>
 
-<center>闭廪归来真了事，赋诗怜汝足精神。</center>
+<center>秧根未牢莳未匝，照管鹅儿与雏鸭。</center>
 
 
 
