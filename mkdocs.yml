@@ -9,7 +9,7 @@ nav:
   - 主页: index.md
   - 高中学习: 
     - 语文: 
-      - 必修下: learning/chinese/compulsory-1.md
+      - 必修上: learning/chinese/compulsory-1.md
       - 必修下: learning/chinese/compulsory-2.md
     - 数学: learning/math.md
     - 物理: learning/physics.md
@@ -17,7 +17,6 @@ nav:
     - 笔记/提纲: learning/note.md
   - 生物学:
     - 书籍: biology/book.md
-    - 课件: biology/ppt.md
   - C++学习: 
     - C++数据结构: cpp/C++数据结构.md
     - 2022.01.17: cpp/2022.01.17.md

@@ -10,7 +10,7 @@ statistics: True
     - 数学[note]: learning/math/
     - 物理[note]: learning/physics/
     - 化学[note]: learning/chemistry/
-    - 笔记[note]: learning/note/
+    - 笔记/提纲[note]: learning/note/
 - 生物学:
     - 书籍: biology/book
     - 课件: biology/ppt
