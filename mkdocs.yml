@@ -17,7 +17,9 @@ nav:
     - 笔记/提纲: learning/note.md
   - 生物学:
     - 书籍: biology/book.md
-    - 笔记: biology/note.md
+    - 笔记: 
+      - 2.24: biology/note/2.24.md
+      - 3.3: biology/note/3.3.md
   - C++学习: 
     - C++数据结构: cpp/C++数据结构.md
     - 2022.01.17: cpp/2022.01.17.md
