@@ -13,7 +13,7 @@ statistics: True
     - 笔记/提纲[note]: learning/note/
 - 生物学:
     - 书籍: biology/book
-    - 课件: biology/ppt
+    - 笔记[note]: biology/note
 - C++学习: 
     - C++数据结构: cpp/C++数据结构
     - 2022.01.17: cpp/2022.01.17
