@@ -86,9 +86,6 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jerryz.com.cn/npm/mathjax@3/es5/tex-mml-chtml.js
-  - src: https://umami.jerryz.com.cn/script.js # <script defer src="https://umami.jerryz.com.cn/script.js" data-website-id="e61f5af8-1c90-4cf8-bcb0-3ed0c1392563"></script>
-    data-website-id: e61f5af8-1c90-4cf8-bcb0-3ed0c1392563
-    defer: true
 
 extra_css:
   - css/extra.css
