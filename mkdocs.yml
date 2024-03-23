@@ -18,9 +18,11 @@ nav:
   - 生物学:
     - 书籍: biology/book.md
     - 笔记: 
+      - 读书笔记: biology/note/books-and-papers.md
       - 2.24: biology/note/2.24.md
       - 3.3: biology/note/3.3.md
       - 3.9: biology/note/3.9.md
+      - 3.23: biology/note/3.23.md
   - C++学习: 
     - C++数据结构: cpp/C++数据结构.md
     - 2022.01.17: cpp/2022.01.17.md
@@ -84,6 +86,9 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jerryz.com.cn/npm/mathjax@3/es5/tex-mml-chtml.js
+  - src: https://umami.jerryz.com.cn/script.js # <script defer src="https://umami.jerryz.com.cn/script.js" data-website-id="e61f5af8-1c90-4cf8-bcb0-3ed0c1392563"></script>
+    data-website-id: e61f5af8-1c90-4cf8-bcb0-3ed0c1392563
+    defer: true
 
 extra_css:
   - css/extra.css
