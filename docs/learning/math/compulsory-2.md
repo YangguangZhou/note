@@ -4,38 +4,63 @@
 
 ### 向量夹角的余弦值
 
-设 \(\vec{a}=(x_1,y_1)\) , \(\vec{b}=(x_2,y_2)\) ，则有： \(\cos \theta = \frac{\vec{a} \cdot \vec{b}}{|\vec{a}||\vec{b}|}\)。
-坐标表示：\(\cos \theta = \frac{x_1 x_2 + y_1 y_2}{\sqrt{x_1^2 + y_1^2} \sqrt{x_2^2 + y_2^2}}\)
+设 \(\vec{a}=(x_1,y_1)\) , \(\vec{b}=(x_2,y_2)\)，则有：
+\[
+\cos \theta = \frac{\vec{a} \cdot \vec{b}}{|\vec{a}||\vec{b}|}
+\]
+坐标表示为：
+\[
+\cos \theta = \frac{x_1 x_2 + y_1 y_2}{\sqrt{x_1^2 + y_1^2} \sqrt{x_2^2 + y_2^2}}
+\]
 
 ### 向量的投影
 
-向量 \(\vec{a}\) 在向量 \(\vec{b}\) 上的投影向量为： \[ |\vec{a}| \cdot |\vec{b}| \cdot \cos \theta \cdot \frac{\vec{b}}{|\vec{b}|} =  \frac{\left(\vec{a} \cdot \vec{b}\right) \cdot\vec{b}}{|\vec{b}|^2}\]
+向量 \(\vec{a}\) 在向量 \(\vec{b}\) 上的投影向量为：
+\[
+|\vec{a}| \cdot |\vec{b}| \cdot \cos \theta \cdot \frac{\vec{b}}{|\vec{b}|} =  \frac{\left(\vec{a} \cdot \vec{b}\right) \cdot\vec{b}}{|\vec{b}|^2}
+\]
 
 ### 向量平行和垂直的坐标表示
 
-- 向量 \(\vec{a}\) 和 \(\vec{b}\) 平行，当且仅当： \(\vec{a} \times \vec{b} = 0\)。
-  坐标表示为： \(x_1 y_2 - y_1 x_2 = 0\)
+- 向量 \(\vec{a}\) 和 \(\vec{b}\) 平行，当且仅当：\(\vec{a} \times \vec{b} = 0\)。坐标表示为：\(x_1 y_2 - y_1 x_2 = 0\)
 
-- 向量 \(\vec{a}\) 和 \(\vec{b}\) 垂直，当且仅当： \(\vec{a} \cdot \vec{b} = 0\)。
-  坐标表示为： \(x_1 x_2 + y_1 y_2 = 0\)
+- 向量 \(\vec{a}\) 和 \(\vec{b}\) 垂直，当且仅当：\(\vec{a} \cdot \vec{b} = 0\)。坐标表示为：\(x_1 x_2 + y_1 y_2 = 0\)
 
 ### 极化恒等式
 
-对于任意两个向量 \(\vec{a}\) 和 \(\vec{b}\)，有： \[\vec{a} \cdot \vec{b} = \frac{1}{2} |\vec{a} + \vec{b}|^2 - \frac{1}{2} |\vec{a} - \vec{b}|^2\]
+对于任意两个向量 \(\vec{a}\) 和 \(\vec{b}\)，有：
+\[
+\vec{a} \cdot \vec{b} = \frac{1}{2} |\vec{a} + \vec{b}|^2 - \frac{1}{2} |\vec{a} - \vec{b}|^2
+\]
 
 ### 中线长公式
 
-在三角形 \(ABC\) 中，若 \(D\) 是 \(BC\) 的中点，则有： \[ AD^2 = \frac{1}{2}AB^2 + \frac{1}{2}AC^2 - \frac{1}{4}BC^2 \]
+在三角形 \(ABC\) 中，若 \(D\) 是 \(BC\) 的中点，则有：
+\[
+AD^2 = \frac{1}{2}AB^2 + \frac{1}{2}AC^2 - \frac{1}{4}BC^2
+\]
 
 ### 三角形四心的性质
 
-- **重心（G）**：重心是三角形三条中线的交点，且分中线为 2:1。其性质为： \[\vec{GA} + \vec{GB} + \vec{GC} = \vec{0}\]
+- **重心（G）**：重心是三角形三条中线的交点，且分中线为 2:1。其性质为：
+  \[
+  \vec{GA} + \vec{GB} + \vec{GC} = \vec{0}
+  \]
 
-- **垂心（H）**：垂心是三角形三条高的交点。其性质为：\[\vec{HA} \cdot \vec{HB} = \vec{HA} \cdot \vec{HC} = \vec{HB} \cdot \vec{HC}\]
+- **垂心（H）**：垂心是三角形三条高的交点。其性质为：
+  \[
+  \vec{HA} \cdot \vec{HB} = \vec{HA} \cdot \vec{HC} = \vec{HB} \cdot \vec{HC}
+  \]
 
-- **外心（O）**：外心是三角形三边垂直平分线的交点，且是外接圆的圆心。其性质为： \[|\vec{OA}| = |\vec{OB}| = |\vec{OC}|\]
+- **外心（O）**：外心是三角形三边垂直平分线的交点，且是外接圆的圆心。其性质为：
+  \[
+  |\vec{OA}| = |\vec{OB}| = |\vec{OC}|
+  \]
 
-- **内心（I）**：内心是三角形三条角平分线的交点，且是内切圆的圆心。其性质为：\[a \cdot \vec{IA} + b \cdot \vec{IB} + c \cdot \vec{IC} = \vec{0}\]
+- **内心（I）**：内心是三角形三条角平分线的交点，且是内切圆的圆心。其性质为：
+  \[
+  a \cdot \vec{IA} + b \cdot \vec{IB} + c \cdot \vec{IC} = \vec{0}
+  \]
 
 ## 立体几何
 
