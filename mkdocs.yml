@@ -57,6 +57,7 @@ theme:
   features:
     - content.code.annotate
     - content.action.edit
+    - content.action.view
     - navigation.tracking
     - navigation.tabs
     - navigation.indexes
