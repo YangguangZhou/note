@@ -9,6 +9,8 @@
   --md-primary-fg-color--light: #8dcbff;
   /* --md-default-fg-color: #56b7ff; */
   --md-default-fg-color--light: #0E90ff;
+  --md-default-fg-color--lighter: #66B3FF;
+  --md-default-fg-color--lightest: #B3D9FF;
   --md-primary-fg-color--dark: #0082e2;
   --md-accent-fg-color: #5ab3ff;
   --md-typeset-a-color: #5ab3ff;
@@ -55,7 +57,7 @@
   white-space: pre;
   color: grey;
   @top-left {
-      content: '© 2023 Jerry Zhou';
+      content: '© 2023-2024 Jerry Zhou';
   }
   @top-center {
       content: string(chapter);
