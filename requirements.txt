@@ -3,5 +3,5 @@ mkdocs-material
 mkdocs-git-revision-date-localized-plugin
 mkdocs-heti-plugin
 rich
-mkdocs-toc-plugin
+./mkdocs_toc_plugin-0.0.2-py3-none-any.whl
 mkdocs-statistics-plugin
