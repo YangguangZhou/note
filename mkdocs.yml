@@ -20,6 +20,7 @@ nav:
   - 生物学:
     - 书籍: biology/book.md
     - 笔记: 
+      - 文件: biology/note/files.md
       - 读书笔记: biology/note/books-and-papers.md
       - 2.24: biology/note/2.24.md
       - 3.3: biology/note/3.3.md

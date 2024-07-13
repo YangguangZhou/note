@@ -2,6 +2,7 @@
 
 {{ BEGIN_TOC }}
 - 英才计划:
+    - 文件: files/
     - 读书笔记: books-and-papers/
     - 2月24日: 2.24/
     - 3月3日: 3.3/
