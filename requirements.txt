@@ -5,3 +5,4 @@ mkdocs-heti-plugin
 rich
 ./mkdocs_toc_plugin-0.0.2-py3-none-any.whl
 mkdocs-statistics-plugin
+mkdocs-encryptcontent-plugin

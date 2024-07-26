@@ -31,6 +31,7 @@ nav:
       - 4.27: biology/note/4.27.md
       - 5.18: biology/note/5.18.md
       - 6.28: biology/note/6.28.md
+      - 夏令营: biology/note/summer-camp.md
       - 7.23: biology/note/7.23.md
       - 7.24: biology/note/7.24.md
       - 氨基酸的名称及其对应缩写: biology/note/amino_acid.md
@@ -112,6 +113,17 @@ plugins:
   - heti
   - toc
   - statistics
+  - encryptcontent:
+        password_inventory:
+          secret: '0506'
+        remember_keys : True
+        remember_password: True
+        remember_prefix: 
+        title_prefix: '🔒'
+        summary: '此内容已使用AES加密'
+        placeholder: '输入密码并按ENTER'
+        decryption_failure_message: '错误的密码'
+        encryption_info_message: "联系管理员以访问此页面"
   # - social:
   #     cards_layout_options:
   #       font_family: Noto Sans SC

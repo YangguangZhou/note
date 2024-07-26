@@ -1,3 +1,6 @@
+---
+level: secret
+---
 # 文件
 
 <div class="card file-block" markdown="1">
