@@ -467,7 +467,7 @@
 <div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div>
 <div class="file-body">
 <div class="file-title">刘凌云《普通动物学 第4版》.pdf</div>
-<div class="file-meta">132.32M / 2024-07-22 23:17:51</div> 
+<div class="file-meta">132.49M / 2024-07-22 23:17:51</div> 
 </div>
 <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/刘凌云《普通动物学 第4版》.pdf" markdown="1">:fontawesome-solid-download: 下载</a> 
 <a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/刘凌云《普通动物学 第4版》.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
@@ -487,7 +487,7 @@
 <div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div>
 <div class="file-body">
 <div class="file-title">植物学 马炜梁 第三版.pdf</div>
-<div class="file-meta">141.75M / 2024-07-21 22:33:07</div> 
+<div class="file-meta">96.23M / 2024-07-21 22:33:07</div> 
 </div>
 <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/植物学 马炜梁 第三版.pdf" markdown="1">:fontawesome-solid-download: 下载</a> 
 <a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/植物学 马炜梁 第三版.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
