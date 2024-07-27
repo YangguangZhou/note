@@ -1,12 +1,12 @@
 # 书籍
 
-<div class="card file-block" markdown="1">
-<div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div>
+<!-- <div class="card file-block" markdown="1">   
+<div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div> 
 <div class="file-body">
 <div class="file-title">《基础生态学》第3版.pdf</div>
-<div class="file-meta">97.42M / 2023-11-21</div>
+<div class="file-meta">97.42M / 2023-11-21</div> 
 </div>
-<a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/《基础生态学》第3版.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+<a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/《基础生态学》第3版.pdf" markdown="1">:fontawesome-solid-download: 下载</a> 
 <a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/生物/《基础生态学》第3版.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
 </div>
 
@@ -276,7 +276,7 @@
 <div class="file-title">根.pptx</div>
 <div class="file-meta">12.61M / 2023-11-21</div>
 </div>
-<a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/根.pptx" markdown="1">:fontawesome-solid-download: 下载</a>
+<a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/根.pptx" markdown="1">:fontawesome-solid-download: 下载</a> 
 <a class="down-button" target="_blank" href="https://view.officeapps.live.com/op/view.aspx?src=https://cloud.jerryz.com.cn/d/OneDrive/生物/根.pptx" markdown="1">:fontawesome-solid-eye: 预览</a>
 </div>
 
@@ -418,7 +418,7 @@
 </div>
 <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/苔藓植物蕨类植物.pptx" markdown="1">:fontawesome-solid-download: 下载</a>
 <a class="down-button" target="_blank" href="https://view.officeapps.live.com/op/view.aspx?src=https://cloud.jerryz.com.cn/d/OneDrive/生物/苔藓植物蕨类植物.pptx" markdown="1">:fontawesome-solid-eye: 预览</a>
-</div>
+</div> 
 
 <div class="card file-block" markdown="1">
 <div class="file-icon"><img src="/img/word.png" style="width: 2.3em;"></div>
@@ -437,7 +437,7 @@
 <div class="file-meta">4.56M / 2023-11-21</div>
 </div>
 <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/茎的常态和变态.pptx" markdown="1">:fontawesome-solid-download: 下载</a>
-<a class="down-button" target="_blank" href="https://view.officeapps.live.com/op/view.aspx?src=https://cloud.jerryz.com.cn/d/OneDrive/生物/茎的常态和变态.pptx" markdown="1">:fontawesome-solid-eye: 预览</a>
+<a class="down-button" target="_blank" href="https://view.officeapps.live.com/op/view.aspx?src=https://cloud.jerryz.com.cn/d/OneDrive/生物/茎的常态和变态.pptx" markdown="1">:fontawesome-solid-eye: 预览</a> 
 </div>
 
 <div class="card file-block" markdown="1">
@@ -458,4 +458,44 @@
 </div>
 <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/遗传学原理.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
 <a class="down-button" target="_blank" href="https://docs.google.com/gview?embedded=true&url=https://cloud.jerryz.com.cn/d/OneDrive/生物/遗传学原理.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
+</div>-->
+
+<div class="card file-block" markdown="1">
+    <div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div>
+    <div class="file-body">
+        <div class="file-title">刘凌云《普通动物学 第4版》.pdf</div>
+        <div class="file-meta">132.32M / 2024-07-22 23:17:51</div>
+    </div>
+    <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/刘凌云《普通动物学 第4版》.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+    <a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/刘凌云《普通动物学 第4版》.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
+</div>
+
+<div class="card file-block" markdown="1">
+    <div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div>
+    <div class="file-body">
+        <div class="file-title">普通生物学 陈阅增 第4版.pdf</div>
+        <div class="file-meta">177.18M / 2023-11-20 23:52:14</div>
+    </div>
+    <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/普通生物学 陈阅增 第4版.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+    <a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/普通生物学 陈阅增 第4版.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
+</div>
+
+<div class="card file-block" markdown="1">
+    <div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div>
+    <div class="file-body">
+        <div class="file-title">植物学 马炜梁 第三版.pdf</div>
+        <div class="file-meta">141.75M / 2024-07-21 22:33:07</div>
+    </div>
+    <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/植物学 马炜梁 第三版.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+    <a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/植物学 马炜梁 第三版.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
+</div>
+
+<div class="card file-block" markdown="1">
+    <div class="file-icon"><img src="/img/pdf.svg" style="width: 2.3em;"></div>
+    <div class="file-body">
+        <div class="file-title">生物技术概论 第五版.pdf</div>
+        <div class="file-meta">57.18M / 2024-07-25 21:53:58</div>
+    </div>
+    <a class="down-button" target="_blank" href="https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/生物技术概论 第五版.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+    <a class="down-button" target="_blank" href="https://alist-org.github.io/pdf.js/web/viewer.html?file=https://cloud.jerryz.com.cn/d/OneDrive/生物/电子书/生物技术概论 第五版.pdf" markdown="1">:fontawesome-solid-eye: 预览</a>
 </div>
