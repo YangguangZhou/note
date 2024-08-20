@@ -82,7 +82,7 @@
 
 <center>越陌度阡，枉用相存。</center>
 
-<center>契阔谈?，心念旧恩。</center>
+<center>契阔谈讌，心念旧恩。</center>
 
 <center>月明星稀，乌鹊南飞。</center>
 
