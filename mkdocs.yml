@@ -11,6 +11,7 @@ nav:
     - 语文: 
       - 必修上: learning/chinese/compulsory-1.md
       - 必修下: learning/chinese/compulsory-2.md
+      - 选必上: learning/chinese/selective-compulsory-1.md
     - 数学: 
       - 必修一: learning/math/compulsory-1.md
       - 必修二: learning/math/compulsory-2.md
