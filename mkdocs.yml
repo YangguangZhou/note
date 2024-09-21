@@ -37,6 +37,7 @@ nav:
       - 7.24: biology/note/7.24.md
       - 竞赛笔记: biology/note/note.md
   - C++学习: 
+    - 初赛知识点: cpp/preliminary.md
     - C++数据结构: cpp/C++数据结构.md
     - 2022.01.17: cpp/2022.01.17.md
     - 2022.01.18: cpp/2022.01.18.md
