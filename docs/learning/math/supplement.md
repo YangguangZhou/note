@@ -11,7 +11,7 @@ level: secret
 
 3. $\displaystyle \cos x \ge 1 - \tfrac12 x^2$
 
-4. $x + 1 \le e^x \le \dfrac1{1 - x}\quad(x \le 0)$
+4. $x + 1 \le e^x \le \dfrac1{1 - x}\quad(x < 1)$
 
 5. $\displaystyle e^x \ge ex$
 
