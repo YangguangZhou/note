@@ -1,3 +1,6 @@
+---
+level: secret
+---
 # 初赛知识点
 
 ## Linux 指令
