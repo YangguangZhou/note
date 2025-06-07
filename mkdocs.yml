@@ -15,6 +15,7 @@ nav:
     - 数学: 
       - 必修一: learning/math/compulsory-1.md
       - 必修二: learning/math/compulsory-2.md
+      - 补充笔记: learning/math/supplement.md
     - 物理: learning/physics.md
     - 化学: learning/chemistry.md
     - 英语: learning/english.md
