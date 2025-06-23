@@ -165,7 +165,7 @@ RangeIndex(start=0, stop=6, step=1)
 ```
 
 - 这里的 `dtype: float64` 表示 Series 中存储的数据类型是64位浮点数。因为原始数据中包含 `np.nan` (Not a Number)，整数被自动转换为了浮点数。
-- 这里的 `RangeIndex(start=0, stop=6, step=1)` 是程序自动生成的索引，表示索引从 0 开始，到 6 结束，步长为 1
+- 这里的 `RangeIndex(start=0, stop=6, step=1)` 是程序自动生成的索引，表示索引从 0 开始，到 4 **之前**结束（即到 3 结束），步长为 1
 
 #### b. DataFrame (数据帧)
 
