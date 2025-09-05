@@ -28,3 +28,9 @@ level: secret
 11. $\displaystyle e^x > \ln x + 2$
 
 12. $\displaystyle e^x > \ln(x + 2)$
+
+13. $\displaystyle \sin x \le \tfrac{2}{\pi}x\quad(0 \le x \le \tfrac{\pi}{2})$
+
+14. $\displaystyle \cos x \ge 1 - \tfrac{2}{\pi}x\quad(0 \le x \le \tfrac{\pi}{2})$
+
+15. $\displaystyle \sin x \le x\cos x\quad(0 \le x \le \tfrac{\pi}{2})$
