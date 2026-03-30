@@ -9,8 +9,9 @@ statistics: True
     - 语文: learning/chinese/
     - 数学[note]: learning/math/
     - 🔒英语[note]: learning/english/
-    - 物理[note]: learning/physics/
-    - 化学[note]: learning/chemistry/
+    - 🔒物理[note]: learning/physics/
+    - 🔒化学[note]: learning/chemistry/
+    - 🔒生物[note]: learning/biology/
     - 🔒信息技术[note]: learning/it/
     - 笔记/提纲[note]: learning/note/
 - 生物学:
