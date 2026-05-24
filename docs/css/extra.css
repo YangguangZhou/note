@@ -66,3 +66,119 @@
       content: '页：' counter(page);
   }
 }
+/* 美化全局排版与字体 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 现代化滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.3);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(136, 136, 136, 0.6);
+}
+
+/* 图片和代码块圆角与阴影 */
+.md-typeset img {
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.md-typeset img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset pre > code {
+  border-radius: 8px;
+}
+.md-typeset .admonition, .md-typeset details {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+/* 超链接平滑过渡 */
+.md-typeset a {
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+/* 修复标题字体粗细问题，使其比正文更醒目 */
+.md-typeset h1, 
+.md-typeset h2, 
+.md-typeset h3, 
+.md-typeset h4, 
+.md-typeset h5, 
+.md-typeset h6 {
+  font-weight: 700 !important;
+  color: var(--md-default-fg-color);
+}
+
+/* 优化引用框(Blockquote)的外观 */
+.md-typeset blockquote {
+  border-left: 4px solid #c0c0c0 !important;
+  background-color: var(--md-code-bg-color);
+  color: var(--md-default-fg-color);
+  opacity: 0.85;
+  padding: 0.8rem 1.2rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+  font-style: normal;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+}
+
+[data-md-color-scheme="slate"] .md-typeset blockquote {
+  border-left: 4px solid #555555 !important;
+  opacity: 0.8;
+}
+
+.md-typeset blockquote p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+
+
+
+
+/* 如果大屏时也需要深色模式统一质感，可以加上 */
+
+
+
+/* 深色模式移动端抽屉美化 */
+@media screen and (max-width: 76.1875em) {
+  [data-md-color-scheme="slate"] .md-sidebar--primary .md-sidebar__scrollwrap {
+    background-color: var(--md-default-bg-color) !important;
+  }
+  
+  [data-md-color-scheme="slate"] .md-nav--primary {
+    background-color: var(--md-default-bg-color) !important;
+  }
+  
+  /* 顶部导航标题区域增加深蓝主题色调 */
+  [data-md-color-scheme="slate"] .md-nav--primary .md-nav__title {
+    background-color: #041c30 !important; /* 深蓝色 */
+    color: #8dcbff !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+  }
+
+  /* 导航项之间的横线恢复适度可见度 */
+  [data-md-color-scheme="slate"] .md-nav--primary .md-nav__item {
+    border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+  }
+
+  /* 顶部的深色区（包含repo等信息）与整体保持类似色调 */
+  [data-md-color-scheme="slate"] .md-nav--primary .md-nav__source {
+    background-color: #0a111a !important; /* 偏蓝的极深色 */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+  }
+}

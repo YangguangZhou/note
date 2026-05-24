@@ -8,14 +8,18 @@
     word-wrap: break-word;
     background-color: #FEFEFE;
     background-clip: border-box;
-    border: 0.5px solid #606060;
-    border-radius: .25rem;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+    transition: box-shadow 0.3s ease;
+    border-radius: 8px;
     margin-bottom: 1em;
 }
 
 [data-md-color-scheme="slate"] .card {
     background-color: #181818;
-    border: 0.5px solid #606060;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+    transition: box-shadow 0.3s ease;
 }
 
 .card-body {
@@ -96,4 +100,10 @@
     background-color: var(--md-accent-fg-color);
     border-color: var(--md-accent-fg-color);
     color: var(--md-accent-bg-color) !important;
+}
+.card:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+[data-md-color-scheme="slate"] .card:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
