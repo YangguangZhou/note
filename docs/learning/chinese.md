@@ -6,4 +6,5 @@
     - 语文必修下必背古诗文: compulsory-2/
     - 语文选择性必修上必背古诗文: selective-compulsory-1/
     - 作文素材积累: composition/
+    - 高考作文句式、论证与素材积累笔记: writing/
 {{ END_TOC }}
