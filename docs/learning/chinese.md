@@ -2,9 +2,6 @@
 
 {{ BEGIN_TOC }}
 - 古诗文:
-    - 语文必修上必背古诗文: compulsory-1/
-    - 语文必修下必背古诗文: compulsory-2/
-    - 语文选择性必修上必背古诗文: selective-compulsory-1/
     - 作文素材积累: composition/
     - 作文笔记: writing/
 {{ END_TOC }}
